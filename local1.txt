@@ -1,2 +1,0 @@
-this is local one file.
-this is second sentence.
